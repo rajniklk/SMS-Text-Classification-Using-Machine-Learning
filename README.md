@@ -20,6 +20,6 @@ We tried to predict the ham/spam label based on message length and punctuation c
 
 ## Conclusion
 
-Based on text alone we correctly classified reviews as positive or negative 73% of the time.
+Based on text alone we correctly classified reviews as positive or negative 98.96% of the time.
 
 
